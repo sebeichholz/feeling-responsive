@@ -26,7 +26,7 @@ And what license is *Feeling Responsive* released under? [This one][2].
 
 Feeling Responsive is heavily customizable.
 
-1. Language-Support :)
+1. No own Language-Support
 2. Optimized for speed and it's responsive.
 3. Built on Foundation Framework.
 4. Six different Headers.

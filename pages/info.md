@@ -17,7 +17,6 @@ header:
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
 * 100% GitHub Pages friendly
 * Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
 * Lots of possibilities to customize it to your needs
 * Lots of different headers
 * Various post formats to let your content shine
